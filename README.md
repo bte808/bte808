@@ -4,10 +4,10 @@ I build small AI and web experiments in public, with a focus on local-first tool
 
 ## Featured projects
 
-- [Maintainer Signal Board](https://github.com/bte808/maintainer-signal-board) - a local-first triage board for issues, pull requests, release blockers, and review load.
-- [Flow Cost Card](https://github.com/bte808/fun-20260531-b-flow-cost-card) - a local-first AI workflow cost and latency forecaster.
-- [Fun Project Dashboard](https://github.com/bte808/fun-project-dashboard) - a public index of daily experiments and shipping practice.
-- [Star Sling](https://github.com/bte808/fun-20260604-a-star-sling) - a tiny canvas game about slinging a star core through a constellation field.
+- [Maintainer Signal Board](https://github.com/bte808/maintainer-signal-board) ([live](https://bte808.github.io/maintainer-signal-board/)) - a local-first triage board for issues, pull requests, release blockers, and review load.
+- [Flow Cost Card](https://github.com/bte808/fun-20260531-b-flow-cost-card) ([live](https://bte808.github.io/fun-20260531-b-flow-cost-card/)) - a local-first AI workflow cost and latency forecaster.
+- [Fun Project Dashboard](https://github.com/bte808/fun-project-dashboard) ([live](https://bte808.github.io/fun-project-dashboard/)) - a public index of daily experiments and shipping practice.
+- [Star Sling](https://github.com/bte808/fun-20260604-a-star-sling) ([live](https://bte808.github.io/fun-20260604-a-star-sling/)) - a tiny canvas game about slinging a star core through a constellation field.
 
 ## Open source maintenance
 
