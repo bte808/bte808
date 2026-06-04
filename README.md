@@ -1,4 +1,4 @@
-# Hi, I'm Tuer
+# Hi, I'm Batur
 
 I build small AI and web experiments in public.
 
