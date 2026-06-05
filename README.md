@@ -13,7 +13,7 @@ I build small AI and web experiments in public, with a focus on local-first tool
 
 - [Fun Project Dashboard](https://bte808.github.io/fun-project-dashboard/) - currently tracks 48 public projects, recent maintenance commits, release links, and review-needed repos.
 - [rtk-ai/rtk#2273](https://github.com/rtk-ai/rtk/pull/2273) - draft PR improving `gh run view --job` passthrough behavior.
-- Recent releases: [Safe Payout Card v0.2.0](https://github.com/bte808/fun-20260604-b-safe-payout-card/releases/tag/v0.2.0), [Star Sling v1.0.1](https://github.com/bte808/fun-20260604-a-star-sling/releases/tag/v1.0.1), and [Construct Canvas v1.0.0](https://github.com/bte808/fun-20260604-c-construct-canvas/releases/tag/v1.0.0).
+- Recent releases: [Maintainer Signal Board v0.7.0](https://github.com/bte808/maintainer-signal-board/releases/tag/v0.7.0), [Safe Payout Card v0.2.0](https://github.com/bte808/fun-20260604-b-safe-payout-card/releases/tag/v0.2.0), [Star Sling v1.0.1](https://github.com/bte808/fun-20260604-a-star-sling/releases/tag/v1.0.1), and [Construct Canvas v1.0.0](https://github.com/bte808/fun-20260604-c-construct-canvas/releases/tag/v1.0.0).
 
 ## Open source maintenance
 
