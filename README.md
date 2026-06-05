@@ -9,6 +9,12 @@ I build small AI and web experiments in public, with a focus on local-first tool
 - [Fun Project Dashboard](https://github.com/bte808/fun-project-dashboard) ([live](https://bte808.github.io/fun-project-dashboard/)) - a public index of daily experiments and shipping practice.
 - [Star Sling](https://github.com/bte808/fun-20260604-a-star-sling) ([live](https://bte808.github.io/fun-20260604-a-star-sling/)) - a tiny canvas game about slinging a star core through a constellation field.
 
+## Recent public evidence
+
+- [Fun Project Dashboard](https://bte808.github.io/fun-project-dashboard/) - currently tracks 48 public projects, recent maintenance commits, release links, and review-needed repos.
+- [rtk-ai/rtk#2273](https://github.com/rtk-ai/rtk/pull/2273) - draft PR improving `gh run view --job` passthrough behavior.
+- Recent releases: [Safe Payout Card v0.2.0](https://github.com/bte808/fun-20260604-b-safe-payout-card/releases/tag/v0.2.0), [Star Sling v1.0.1](https://github.com/bte808/fun-20260604-a-star-sling/releases/tag/v1.0.1), and [Construct Canvas v1.0.0](https://github.com/bte808/fun-20260604-c-construct-canvas/releases/tag/v1.0.0).
+
 ## Open source maintenance
 
 I like small, reviewable PRs that make public docs and developer workflows easier to use.
@@ -21,6 +27,7 @@ Merged:
 
 In review:
 
+- [rtk-ai/rtk](https://github.com/rtk-ai/rtk/pull/2273) - improves `gh run view --job` passthrough behavior.
 - [Apple container](https://github.com/apple/container/pull/1646) - restores macOS 15 networking troubleshooting steps.
 - [QGIS Website](https://github.com/qgis/QGIS-Website/pull/1011) - removes broken OGC conformance report links.
 - [Apache Cloudberry site](https://github.com/apache/cloudberry-site/pull/373) - fixes a broken FAQ link.
