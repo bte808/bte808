@@ -32,5 +32,4 @@ In review:
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk/pull/2273) - improves `gh run view --job` passthrough behavior.
 - [Vector](https://github.com/vectordotdev/vector/pull/25574) - fixes an aggregator documentation typo.
 - [Apple container](https://github.com/apple/container/pull/1646) - restores macOS 15 networking troubleshooting steps.
-- [QGIS Website](https://github.com/qgis/QGIS-Website/pull/1011) - removes broken OGC conformance report links.
 - [Decentraland docs](https://github.com/decentraland/docs/pull/108) - fixes broken GitHub documentation links.
