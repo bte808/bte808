@@ -11,9 +11,10 @@ I build small AI and web experiments in public, with a focus on local-first tool
 
 ## Recent public evidence
 
-- [Fun Project Dashboard](https://bte808.github.io/fun-project-dashboard/) - currently tracks 48 public projects, recent maintenance commits, release links, and review-needed repos.
-- [rtk-ai/rtk#2273](https://github.com/rtk-ai/rtk/pull/2273) - draft PR improving `gh run view --job` passthrough behavior.
-- Recent releases: [Maintainer Signal Board v0.7.0](https://github.com/bte808/maintainer-signal-board/releases/tag/v0.7.0), [Fun Project Dashboard v0.1.2](https://github.com/bte808/fun-project-dashboard/releases/tag/v0.1.2), [Safe Payout Card v0.2.0](https://github.com/bte808/fun-20260604-b-safe-payout-card/releases/tag/v0.2.0), [Star Sling v1.0.1](https://github.com/bte808/fun-20260604-a-star-sling/releases/tag/v1.0.1), and [Construct Canvas v1.0.0](https://github.com/bte808/fun-20260604-c-construct-canvas/releases/tag/v1.0.0).
+- [Fun Project Dashboard](https://bte808.github.io/fun-project-dashboard/) - currently tracks 48 public projects, recent maintenance commits, release links, external OSS PR status, and review-needed repos.
+- [Reviewer packet](https://github.com/bte808/fun-project-dashboard/blob/main/docs/reviewer-packet.md) - compact public checklist for dashboard CI, Pages, governance, OSS PRs, and reproducible evidence.
+- [rtk-ai/rtk#2273](https://github.com/rtk-ai/rtk/pull/2273) - ready-for-review PR improving `gh run view --job` passthrough behavior; CLA and upstream CI approval are the remaining blockers.
+- Recent releases: [Maintainer Signal Board v0.7.3](https://github.com/bte808/maintainer-signal-board/releases/tag/v0.7.3), [Fun Project Dashboard v0.2.5](https://github.com/bte808/fun-project-dashboard/releases/tag/v0.2.5), [Safe Payout Card v0.2.0](https://github.com/bte808/fun-20260604-b-safe-payout-card/releases/tag/v0.2.0), [Star Sling v1.0.1](https://github.com/bte808/fun-20260604-a-star-sling/releases/tag/v1.0.1), and [Construct Canvas v1.0.0](https://github.com/bte808/fun-20260604-c-construct-canvas/releases/tag/v1.0.0).
 
 ## Open source maintenance
 
@@ -24,6 +25,7 @@ Merged:
 - [Microsoft Azure Docs](https://github.com/MicrosoftDocs/azure-docs/pull/128553) - fixed backup documentation wording.
 - [Prebid docs](https://github.com/prebid/prebid.github.io/pull/6598) - fixed a SharedID documentation typo.
 - [OpenC3 COSMOS](https://github.com/OpenC3/cosmos/pull/3445) - fixed reference architecture documentation typos.
+- [Apache Cloudberry site](https://github.com/apache/cloudberry-site/pull/373) - fixed a broken FAQ link.
 
 In review:
 
@@ -31,5 +33,4 @@ In review:
 - [Vector](https://github.com/vectordotdev/vector/pull/25574) - fixes an aggregator documentation typo.
 - [Apple container](https://github.com/apple/container/pull/1646) - restores macOS 15 networking troubleshooting steps.
 - [QGIS Website](https://github.com/qgis/QGIS-Website/pull/1011) - removes broken OGC conformance report links.
-- [Apache Cloudberry site](https://github.com/apache/cloudberry-site/pull/373) - fixes a broken FAQ link.
 - [Decentraland docs](https://github.com/decentraland/docs/pull/108) - fixes broken GitHub documentation links.
