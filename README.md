@@ -14,8 +14,8 @@ I build small AI and web experiments in public, with a focus on local-first tool
 - [Fun Project Dashboard](https://bte808.github.io/fun-project-dashboard/) - currently tracks 48 public projects, recent maintenance commits, release links, external OSS PR status, and review-needed repos.
 - [Reviewer packet](https://github.com/bte808/fun-project-dashboard/blob/main/docs/reviewer-packet.md) - compact public checklist for dashboard CI, Pages, governance, OSS PRs, and reproducible evidence.
 - [Codex OSS application brief](https://github.com/bte808/fun-project-dashboard/blob/main/docs/codex-oss-application-brief.md) - reviewer-facing summary of merged PRs, open PRs, closed outcomes, blockers, releases, and validation commands.
-- [rtk-ai/rtk#2273](https://github.com/rtk-ai/rtk/pull/2273) - ready-for-review PR improving `gh run view --job` passthrough behavior, with local `cargo fmt`, `cargo test --all`, and `cargo clippy --all-targets` verification now recorded; CLA and upstream CI approval are the remaining blockers.
-- Recent releases: [Maintainer Signal Board v0.7.3](https://github.com/bte808/maintainer-signal-board/releases/tag/v0.7.3), [Fun Project Dashboard v0.2.9](https://github.com/bte808/fun-project-dashboard/releases/tag/v0.2.9), [Safe Payout Card v0.2.0](https://github.com/bte808/fun-20260604-b-safe-payout-card/releases/tag/v0.2.0), [Star Sling v1.0.1](https://github.com/bte808/fun-20260604-a-star-sling/releases/tag/v1.0.1), and [Construct Canvas v1.0.0](https://github.com/bte808/fun-20260604-c-construct-canvas/releases/tag/v1.0.0).
+- [rtk-ai/rtk#2273](https://github.com/rtk-ai/rtk/pull/2273) - ready-for-review PR improving `gh run view --job` passthrough behavior, with local `cargo fmt`, `cargo test --all`, and `cargo clippy --all-targets` verification recorded; CLA signing is the remaining user-only blocker.
+- Recent releases: [Maintainer Signal Board v0.7.3](https://github.com/bte808/maintainer-signal-board/releases/tag/v0.7.3), [Fun Project Dashboard v0.2.10](https://github.com/bte808/fun-project-dashboard/releases/tag/v0.2.10), [Safe Payout Card v0.2.0](https://github.com/bte808/fun-20260604-b-safe-payout-card/releases/tag/v0.2.0), [Star Sling v1.0.1](https://github.com/bte808/fun-20260604-a-star-sling/releases/tag/v1.0.1), and [Construct Canvas v1.0.0](https://github.com/bte808/fun-20260604-c-construct-canvas/releases/tag/v1.0.0).
 
 ## Open source maintenance
 
@@ -30,9 +30,10 @@ Merged:
 - [OWASP WrongSecrets](https://github.com/OWASP/wrongsecrets/pull/2549) - fixed GCP deployment README wording.
 - [Vector](https://github.com/vectordotdev/vector/pull/25574) - fixed an aggregator documentation typo.
 - [PySpector](https://github.com/ParzivalHack/PySpector/pull/67) - added a collapsed FAQ section to the README.
+- [SAP helm-charts](https://github.com/sapcc/helm-charts/pull/11861) - fixed README typos.
 
 In review:
 
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk/pull/2273) - improves `gh run view --job` passthrough behavior.
-- [Apple container](https://github.com/apple/container/pull/1646) - restores macOS 15 networking troubleshooting steps.
-- [Decentraland docs](https://github.com/decentraland/docs/pull/108) - fixes broken GitHub documentation links.
+- [AWS CDK EKS Blueprints](https://github.com/awslabs/cdk-eks-blueprints/pull/1252) - fixes a core concepts typo and stale documentation links; CI feedback has been addressed.
+- [Decentraland docs](https://github.com/decentraland/docs/pull/108) - fixes broken GitHub documentation links; currently needs a merge-conflict refresh.
